@@ -1141,7 +1141,7 @@ glovew-api
 <br/>
 
 <details>
-<summary>🔒 <b>Future F Biotech (퓨처 에프 바이오텍)</b> — <i>Private Repository</i></summary>
+<summary>🔒 <b>Future F Biotech</b> — <i>Private Repository</i></summary>
 
 
 > **혁신적인 바이오 테크놀로지 기업을 위한 통합 웹 플랫폼**
@@ -1253,7 +1253,7 @@ futurefbiotech/
 <br/>
 
 <details>
-<summary>🔒 <b>🚛 Narmi Logistics Dashboard (나르미 운송 관리 대시보드)</b> — <i>Private Repository</i></summary>
+<summary>🔒 <b>🚛 Narmi Logistics Dashboard</b> — <i>Private Repository</i></summary>
 
 
 > **효율적인 화물/운송 관리를 위한 웹 기반 Admin 대시보드 솔루션**
