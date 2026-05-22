@@ -2,7 +2,7 @@
 
 ## 📊 GitHub Live Stats
 
-[![GitHub Stats](https://github-readme-stats-beryl-two-mr69qq3vaw.vercel.app/api?username=bulls1223&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=bulls1223&theme=dark)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats-beryl-two-mr69qq3vaw.vercel.app/api?username=bulls1223&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=bulls1223&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats-beryl-two-mr69qq3vaw.vercel.app/api/top-langs/?username=bulls1223&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
