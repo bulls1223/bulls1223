@@ -2,13 +2,9 @@
 
 ## 📊 GitHub Live Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bulls1223&show_icons=true&theme=radial" alt="GitHub Stats" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=bulls1223&theme=dark" alt="GitHub Streak" height="150" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulls1223&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="150" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bulls1223&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=bulls1223&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulls1223&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
