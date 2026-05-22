@@ -1,5 +1,17 @@
 # 👨‍💻 Private Projects Portfolio
 
+## 📊 GitHub Live Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bulls1223&show_icons=true&theme=radial" alt="GitHub Stats" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=bulls1223&theme=dark" alt="GitHub Streak" height="150" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulls1223&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="150" />
+</p>
+
+---
+
 > Here is a collection of my private projects. Detailed information is collapsed below.
 
 ## 🚀 Project Highlights
