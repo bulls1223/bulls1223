@@ -1,22 +1,5 @@
 # 👨‍💻 Private Projects Portfolio
 
-## 🏆 Special GitHub Achievements
-
-<p align="left">
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/yolo-default.png?raw=true" alt="YOLO" title="YOLO (You Only Live Once)" width="65" height="65" />
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pair-extraordinaire-default.png?raw=true" alt="Pair Extraordinaire" title="Pair Extraordinaire (Co-authored Pull Request)" width="65" height="65" />
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" alt="Pull Shark" title="Pull Shark (Merged Pull Request)" width="65" height="65" />
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png?raw=true" alt="Quickdraw" title="Quickdraw (Closed issue within 5 mins)" width="65" height="65" />
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/starstruck-default.png?raw=true" alt="Starstruck" title="Starstruck (Repository received stars)" width="65" height="65" />
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/galaxy-brain-default.png?raw=true" alt="Galaxy Brain" title="Galaxy Brain (Discussion Answer Accepted)" width="65" height="65" />
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/public-sponsor-default.png?raw=true" alt="Public Sponsor" title="Public Sponsor (Sponsored open source)" width="65" height="65" />
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/heart-on-your-sleeve-default.png?raw=true" alt="Heart on your sleeve" title="Heart on your sleeve (Sponsor user)" width="65" height="65" />
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/arctic-code-vault-contributor-default.png?raw=true" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor (2020 Archive Program)" width="65" height="65" />
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/mars-2020-contributor-default.png?raw=true" alt="Mars 2020 Contributor" title="Mars 2020 Contributor (Helicopter Mission)" width="65" height="65" />
-</p>
-
----
-
 ## 📊 GitHub Live Stats
 
 [![GitHub Stats](https://github-readme-stats-beryl-two-mr69qq3vaw.vercel.app/api?username=bulls1223&show_icons=true&theme=default&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=bulls1223&theme=default)](https://git.io/streak-stats)
