@@ -47,11 +47,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://mdm.youngyeon.com"><img src="https://mdm.youngyeon.com/og-image.png" alt="KMTC MDM · 기준정보 관리 시스템" width="100%" /></a>
-      <br/><br/><b><a href="https://mdm.youngyeon.com">KMTC MDM · 기준정보 관리 시스템</a></b>
-      <br/><sub>Business Partner · 계정코드 · Freight · Expense · 조직 기준정보를 신청 → 합의 → 승인 → 반영 → 배포(EAI)까지 한 곳에서 관리하는 KMTC 전사 기준정보 관리 시스템</sub>
+      <img src="https://img.shields.io/badge/MDM%20%C2%B7%20%EA%B8%B0%EC%A4%80%EC%A0%95%EB%B3%B4%20%EA%B4%80%EB%A6%AC%20%EC%8B%9C%EC%8A%A4%ED%85%9C-Private-9CA3AF?style=for-the-badge" alt="MDM · 기준정보 관리 시스템" height="32" />
+      <br/><br/><b>🔒 MDM · 기준정보 관리 시스템</b>
+      <br/><sub>Business Partner · 계정코드 · Freight · Expense · 조직 기준정보를 신청 → 합의 → 승인 → 반영 → 배포(EAI)까지 한 곳에서 관리하는 전사 기준정보 관리 시스템.</sub>
       <br/><br/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" height="18" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" height="18" />
-      <br/><br/>🔗 <a href="https://mdm.youngyeon.com">mdm.youngyeon.com</a>
+      <br/><br/><sub><i>Private service · link disabled</i></sub>
     </td>
     <td width="50%" valign="top"></td>
   </tr>
