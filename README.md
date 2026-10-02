@@ -85,7 +85,13 @@
       <br/><br/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" height="18" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" height="18" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="18" /> <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI" height="18" /> <img src="https://img.shields.io/badge/AG%20Grid-1B73BA?style=flat-square&logo=aggrid&logoColor=white" alt="AG Grid" height="18" />
       <br/><br/>🔗 <a href="https://oog.valueonsys.com">oog.valueonsys.com</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://www.medibric.com"><img src="https://www.medibric.com/opengraph-image?82ff2c2ee88efb6e" alt="MEDIBRIC — 국내를 넘어 세계를 연결하는 의료기기 유통 전문기업" width="100%" /></a>
+      <br/><br/><b><a href="https://www.medibric.com">MEDIBRIC — 국내를 넘어 세계를 연결하는 의료기기 유통 전문기업</a></b>
+      <br/><sub>MEDIBRIC(㈜썬더애로우)은 국내외 우수 의료기기를 발굴해 의료기관과 소비자에게 안전하고 신속하게 공급하는 의료기기 유통 전문기업입니다. 인허가·통관·물류·설치·A/S까지 유통 전 과정을 지원합니다.</sub>
+      <br/><br/><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" height="18" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" height="18" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="18" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="18" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" height="18" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" height="18" />
+      <br/><br/>🔗 <a href="https://www.medibric.com">www.medibric.com</a>
+    </td>
   </tr>
 </table>
 
